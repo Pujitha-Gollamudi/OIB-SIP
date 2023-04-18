@@ -1,4 +1,4 @@
-#task2
+#task3
 import java.text.DecimalFormat;
 import java.util.InputMismatchException;
 import java.io.IOException;
